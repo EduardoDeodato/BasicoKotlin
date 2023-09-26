@@ -1,0 +1,11 @@
+Fun main(){
+var y = 10
+var b = 20
+var c = y + b
+var d = b + c + y
+var x = 2
+var f = x + d + c
+x = f - 2 * b
+d = x * y
+println(d)
+}
